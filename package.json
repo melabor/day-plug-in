@@ -1,0 +1,27 @@
+{
+  "name": "day-plug-in",
+  "version": "0.0.0",
+  "description": "这是一个基于dayjs二次封装的时间插件,里面是基于dayjs中的方法计算出昨天,今天,上周,本周,本月,上月,本季度,上个季度,本年,去年....",
+  "main": "./src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RabbitCodeHole/day-plug-in.git"
+  },
+  "keywords": [
+    "dayjs",
+    "vue",
+    "react"
+  ],
+  "author": "wanggaoxian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RabbitCodeHole/day-plug-in/issues"
+  },
+  "homepage": "https://github.com/RabbitCodeHole/day-plug-in#readme",
+  "dependencies": {
+    "dayjs": "^1.11.9"
+  }
+}
